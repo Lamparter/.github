@@ -1,6 +1,7 @@
 name: Feature Request
 description: This project thrives from differentiation from competing apps. Suggest an idea today!
 title: 'Feature: '
+type: 'Feature'
 body:
 
   # Tip to warn of checking for existing issues
