@@ -1,5 +1,5 @@
 # It's recommended to override this file with other useful links like translation, forum, website, etc.
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: Question & Discussion
     url: https://dsc.gg/devsanx
