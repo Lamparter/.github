@@ -1,7 +1,6 @@
 name: Code Quality Issue
 description: Create a code quality issue to help keep a clean codebase
 title: 'Code Quality: '
-type: 'Code quality'
 body:
 
   # Tip to warn of checking for existing issues
